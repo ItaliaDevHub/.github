@@ -1,3 +1,7 @@
+Ecco il testo aggiornato con il badge di Telegram e il link corretto:
+
+---
+
 # **ItalianDev - La Community degli Sviluppatori Italiani 🇮🇹👨‍💻👩‍💻**
 
 ## Cos'è **ItalianDev**? 🤔
@@ -62,7 +66,7 @@ Unendoti a **ItalianDev**, non solo avrai l'opportunità di lavorare su progetti
 
 **ItalianDev** è attiva su **Telegram**, il nostro canale ufficiale dove tutti i membri della community possono partecipare, scambiarsi idee, chiedere supporto e seguire le novità:
 
-- **[Telegram - ItalianDev Network](https://t.me/ItalianDevNetwork)**
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ItaliaDevNetwork)
 
 Non dimenticare di seguirci anche su altre piattaforme nei prossimi mesi, quando estenderemo la nostra presenza sui social media!
 
